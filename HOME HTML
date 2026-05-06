@@ -1,0 +1,5 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Tinta Imajinasi Studio</h1>
+<p>Mewujudkan ide menjadi karya digital kreatif dan inspiratif.</p>
+{% endblock %}
